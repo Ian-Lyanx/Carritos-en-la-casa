@@ -1,7 +1,7 @@
 # Carritos en la casa
  Carritos en la casa.
 
-El ejecutable se encuentra en el siguiente link: https://drive.google.com/drive/folders/1Oaw79mSaY-O80MH21a58LbFJ_oik8S_L
+El ejecutable se encuentra en el siguiente link: https://drive.google.com/drive/folders/1sGSPvUvIC-Nb-kEm0bF2-2eYJTy4G94j?usp=sharing
 Simplemente se abre el juego y este empieza automáticamnte, te encontrarás
 con el manú, el cual por ahora únicamente tiene la función de jugar.
 
